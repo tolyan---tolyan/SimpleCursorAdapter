@@ -13,6 +13,7 @@ public class DB {
     private static final int DB_VERSION = 1;
     private static final String DB_TABLE = "mytab";
 
+
     public static final String COLUMN_ID = "_id";
     public static final String COLUMN_TXT = "txt";
 
